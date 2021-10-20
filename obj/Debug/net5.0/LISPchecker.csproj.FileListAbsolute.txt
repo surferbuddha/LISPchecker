@@ -1,0 +1,16 @@
+/home/elijah/Desktop/LISPchecker/bin/Debug/net5.0/LISPchecker
+/home/elijah/Desktop/LISPchecker/bin/Debug/net5.0/LISPchecker.deps.json
+/home/elijah/Desktop/LISPchecker/bin/Debug/net5.0/LISPchecker.runtimeconfig.json
+/home/elijah/Desktop/LISPchecker/bin/Debug/net5.0/LISPchecker.runtimeconfig.dev.json
+/home/elijah/Desktop/LISPchecker/bin/Debug/net5.0/LISPchecker.dll
+/home/elijah/Desktop/LISPchecker/bin/Debug/net5.0/ref/LISPchecker.dll
+/home/elijah/Desktop/LISPchecker/bin/Debug/net5.0/LISPchecker.pdb
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/LISPchecker.csproj.AssemblyReference.cache
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/LISPchecker.GeneratedMSBuildEditorConfig.editorconfig
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/LISPchecker.AssemblyInfoInputs.cache
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/LISPchecker.AssemblyInfo.cs
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/LISPchecker.csproj.CoreCompileInputs.cache
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/LISPchecker.dll
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/ref/LISPchecker.dll
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/LISPchecker.pdb
+/home/elijah/Desktop/LISPchecker/obj/Debug/net5.0/LISPchecker.genruntimeconfig.cache
